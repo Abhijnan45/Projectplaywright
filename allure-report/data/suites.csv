@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","9867","Locators","webkit","Mon Nov 17 23:44:31 IST 2025","passed","Mon Nov 17 23:44:41 IST 2025","","Locators.spec.js","",""
+"","11166","Locators","chromium","Mon Nov 17 23:44:16 IST 2025","passed","Mon Nov 17 23:44:28 IST 2025","","Locators.spec.js","",""
+"","10894","Locators","firefox","Mon Nov 17 23:44:17 IST 2025","passed","Mon Nov 17 23:44:27 IST 2025","","Locators.spec.js","",""
