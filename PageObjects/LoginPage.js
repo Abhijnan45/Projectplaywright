@@ -10,7 +10,7 @@ class LoginPage{
 
 async goto()
 {
-    await this.page.goto('https://rahulshettyacademy.com/client/#/auth/login');
+    await this.page.goto('https://rahulshettyacademy.com/client/#/auth/login',{waitUntil:'networkidle'});
 }
 async Login(username,password)
 {

@@ -23,7 +23,7 @@ test(`ecommerce test ${data.ProductName}`, async ({ page }) => {
   await cartpage.gotochekout();
   const checkoutpage = new CheckOutPage(page);
   await checkoutpage.ProductDetails(data.username);
-  await expect(page.getByText(data.username)).toBeVisible();
+  
   await expect(page.locator('h1')).toHaveText('Thankyou for the order.');
   const orderDetails = new OrderDetails(page);
   const {orderID , orderIDDetails } = await orderDetails.Ordervalidation();

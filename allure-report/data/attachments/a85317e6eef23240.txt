@@ -1,0 +1,10 @@
+User Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA2M2EwM2Y2NjlkNmNiMGEzYWY3MzEiLCJ1c2VyRW1haWwiOiJibGFja3VpQGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjQ1Njc4OTAxMjMsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjM3OTE2MjgsImV4cCI6MTc5NTM0OTIyOH0.KPNvkj1yJwoHEDh3ujwEc9zNL27-nzKon4Ri4iqIz3s
+Order Response: {
+  orders: [ '6921530d5008f6a90931add2' ],
+  productOrderId: [ '68a961719320a140fe1ca57c' ],
+  message: 'Order Placed Successfully'
+}
+Full response1: {
+  userToken: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTA2M2EwM2Y2NjlkNmNiMGEzYWY3MzEiLCJ1c2VyRW1haWwiOiJibGFja3VpQGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjQ1Njc4OTAxMjMsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NjM3OTE2MjgsImV4cCI6MTc5NTM0OTIyOH0.KPNvkj1yJwoHEDh3ujwEc9zNL27-nzKon4Ri4iqIz3s',
+  orderID: '6921530d5008f6a90931add2'
+}
